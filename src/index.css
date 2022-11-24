@@ -1,0 +1,11 @@
+.my-page {
+  margin: 2rem auto;
+  padding: 1rem;
+  width: 70%;
+  background: #ccc;
+}
+
+.dark {
+  background-color: black;
+  color: white;
+}
